@@ -1,4 +1,4 @@
-baseURL = "https://mathew-davies-co-uk-pr-1.onrender.com"
+baseURL = "https://mathew-davies-co-uk-pr-1.onrender.com/"
 languageCode = "en-us"
 title = "Deploy Hugo on Render"
 theme = "ink"
