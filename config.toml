@@ -1,4 +1,4 @@
-baseURL = "https://hugo.onrender.com"
+baseURL = "https://mathew-davies.co.uk/"
 languageCode = "en-us"
-title = "Deploy Hugo on Render"
-theme = "ananke"
+title = "Mathew Davies"
+theme = "ink"
