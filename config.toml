@@ -1,4 +1,12 @@
 baseURL = "https://mathew-davies.co.uk/"
 languageCode = "en-us"
 title = "Mathew Davies"
+copyright = "© Copyright notice"
 theme = "ink"
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+	subtitle = "A PHP, GoLang and Electronics person"
